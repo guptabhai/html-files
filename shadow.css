@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+
+
+
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.box{
+
+margin: 5px;
+padding: 5px;
+}
+#head1{
+text-shadow: 10px 12px rgba(13, 15, 0, 0.205);
+
+}
+

@@ -1,0 +1,25 @@
+*{
+padding: 0;
+margin: 0;
+}
+body{
+margin: 10px;
+
+}
+#img1{
+float: left;
+padding: 20px;
+
+
+}
+   #img2{
+    padding: 20px;
+    float: left;
+    clear: left;
+}
+h3{
+    display: inline-block;
+color: blue;
+border: 2px solid black ;
+
+}

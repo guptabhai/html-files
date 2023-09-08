@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    .container{
+    
+    background-color: aqua;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    }
+    .box{
+    width: 800px;
+    height:600px
+    }
+    h1{
+    color: gold;
+    text-align: center;
+    
+    }
+    .ind{
+        border: 1.5px solid black;
+        display: block;
+        padding: 3px;
+        margin: 5px;
+       
+        position: relative;
+        animation-timing-function: linear;
+        animation-duration: 4s;
+        animation-delay: 1s;
+        animation-iteration-count: infinite;
+        animation-fill-mode: both;
+        animation-name: rightmovement;
+        animation-direction: alternate;
+    }
+    @keyframes rightmovement {
+        from{
+    top: 0px;
+    left: 0px;
+    
+        }
+        to{
+            top:0px;
+            left: 500px;
+    
+    
+        }
+        
+    }
+    .bat{
+background-color: blue;
+
+
+    }
+.both{
+background-color: darkmagenta;
+
+}
+
+    .bowl{
+background-color: red;
+
+    }
+    
