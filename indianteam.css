@@ -37,7 +37,7 @@ left: 0px;
     }
     to{
         top:0px;
-        left: 500px;
+        left: 350px;
 
 
     }
@@ -57,8 +57,8 @@ background-color: orangered;
 
 .tiranga{
 float: right;
-width: 200px;
-height: 300px;
+width: 100px;
+height: 150px;
 }
 .tiranga h1{
 color: bisque;
