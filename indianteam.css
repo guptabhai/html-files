@@ -56,7 +56,7 @@ background-color: orangered;
 
 
 .tiranga{
-
+display: block;
 width: 100px;
 height: 150px;
 }
