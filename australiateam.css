@@ -61,4 +61,26 @@ background-color: darkmagenta;
 background-color: red;
 
     }
+
+@media screen and (max-width: 600px){
+
+.box{
+ height:300px;   
+width:400px
+
+}
+    @keyframes rightmovement {
+        from{
+    top: 0px;
+    left: 0px;
+    
+        }
+        to{
+            top:0px;
+            left: 400px;
+    
+    
+        }
+}
+
     
